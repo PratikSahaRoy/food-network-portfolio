@@ -9,6 +9,10 @@ h1{
     font-size: 70px;
     color: silver;
 }
+#red{
+    color: red;
+    font-size: 70px;
+}
 .flexible{
     display: flex;
     margin: 50px;
@@ -29,7 +33,7 @@ h1{
     font-weight: 700;
     border-radius: 5px;
 }
-.about-me{
+.about-us{
     background-image: url(images/Frame\ 58.jpg);
     background-repeat: no-repeat;
     background-position: left;
@@ -58,4 +62,8 @@ h1{
       width:1200px;
       height:300px;
       margin:10px auto;
+  }
+  .black-color{
+      margin-top: 250px;
+      background-color: rgba(0, 0, 0, 0.452);
   }
